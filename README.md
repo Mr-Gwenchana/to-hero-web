@@ -2,5 +2,6 @@ F**cking README
 
 # hello world
 
-[ ] hello 1
-[x] hello 2
+- [ ] hello 1
+- [x] hello 2
+- [ ] `hello world`
