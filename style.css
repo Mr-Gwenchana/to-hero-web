@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: "Poppins";
+    color: white;
+}
+body{
+    background: black;
+}
+.introduce-bar{
+    position: relative;
+}
+
+.introduce-head{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 32px;
+}
+
+.cherrygame-icon{
+    width: 60px;
+    height: auto;
+}
+
+.bx{
+    font-size: 35px;
+    color: white;
+}
+
+.contact-cherry-logo{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.game-logo-area{
+    width: 100%;
+    padding: 40px 0px;
+}
+
+.game-logo{
+    display: flex;
+    justify-content: center;
+}
+
+.introduce-video{
+    position: absolute;
+    width: 100%;
+    z-index: -100;
+    bottom: -40px;
+}
+.page-content{
+    padding: 36px;
+}
+.content-text{
+    display: flex;
+    justify-content: center;
+}
+
+/* .content-1{
+    flex-direction: row-reverse;
+} */
+ 
+.content{
+    display: flex;
+    gap: 10%;
+}
+.content-image{
+    min-width: 45%;
+}
+.content img{
+    width: 100%;
+}
+#introduce-text{
+    font-size: 36px;
+    font-weight: 500;
+}
+#content-title1{
+    font-weight: 500;
+    font-size: 32px;
+}
