@@ -1,6 +1,6 @@
 F**cking README
 
-### hello world
+# hello world
 
-[] hello 1
-[] hello 2
+[ ] hello 1
+[x] hello 2
