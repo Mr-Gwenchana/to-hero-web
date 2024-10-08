@@ -1,6 +1,6 @@
-F**cking README
-
-### hello world
-
-[] hello 1
-[] hello 2
+**F\*\*cking README**
+---
+# Xinchao
+- Ciao
+- Hello
+- Bonjour
